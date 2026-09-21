@@ -1,0 +1,2 @@
+-- Base de datos del sistema de gestión académica
+-- Las tablas se agregarán en las siguientes etapas.
